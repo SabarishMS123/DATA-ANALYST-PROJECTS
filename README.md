@@ -97,7 +97,7 @@ A comprehensive hospital and epidemiological dashboard tracking TB patient outco
   <img src="./images/naam time analysis board.png" width="800" alt="Time Analysis" />
   <p><em>Longitudinal & Time Trend Analysis</em></p>
   
-  <img src="./images/naam treatment analysis board.png" width="800" alt="Treatment Analysis" />
+  <img src="./images/naam treatment analsyis board.png" width="800" alt="Treatment Analysis" />
   <p><em>Treatment Protocol & Outcome Analysis</em></p>
 </div>
 
