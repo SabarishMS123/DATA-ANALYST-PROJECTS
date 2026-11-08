@@ -39,16 +39,16 @@ This project visualizes the distribution, anatomical localization, and demograph
 ### 📸 Dashboard Screenshots
 
 <div align="center">
-  <img src="./images/brain-grade-1.png" width="800" alt="Grade 1 Brain Tumor Analysis" />
+  <img src="./images/Grade1.png" width="800" alt="Grade 1 Brain Tumor Analysis" />
   <p><em>WHO Grade 1 Staging Analysis</em></p>
   
-  <img src="./images/brain-grade-2.png" width="800" alt="Grade 2 Brain Tumor Analysis" />
+  <img src="./images/Grade2.png" width="800" alt="Grade 2 Brain Tumor Analysis" />
   <p><em>WHO Grade 2 Staging Analysis</em></p>
   
-  <img src="./images/brain-grade-3.png" width="800" alt="Grade 3 Brain Tumor Analysis" />
+  <img src="./images/Grade3.png" width="800" alt="Grade 3 Brain Tumor Analysis" />
   <p><em>WHO Grade 3 Staging Analysis</em></p>
   
-  <img src="./images/brain-grade-4.png" width="800" alt="Grade 4 Brain Tumor Analysis" />
+  <img src="./images/Grade4.png" width="800" alt="Grade 4 Brain Tumor Analysis" />
   <p><em>WHO Grade 4 Staging Analysis</em></p>
 </div>
 
@@ -79,25 +79,25 @@ A comprehensive hospital and epidemiological dashboard tracking TB patient outco
 ### 📸 Dashboard Screenshots
 
 <div align="center">
-  <img src="./images/naam-landing.png" width="800" alt="TB Landing Page" />
+  <img src="./images/naam home.png" width="800" alt="TB Landing Page" />
   <p><em>Portal Landing Navigation</em></p>
   
-  <img src="./images/naam-overall.png" width="800" alt="Overall Performance" />
+  <img src="./images/naam overall performance board.png" width="800" alt="Overall Performance" />
   <p><em>Overall Performance Dashboard: Core KPIs & Demographics</em></p>
   
-  <img src="./images/naam-hospital.png" width="800" alt="Hospital Analysis" />
+  <img src="./images/naam hospital analysis suitability board.png" width="800" alt="Hospital Analysis" />
   <p><em>Hospital Operational & Facility Suitability Analysis</em></p>
   
-  <img src="./images/naam-medical.png" width="800" alt="Medical Analysis" />
+  <img src="./images/naam medical analysis board.png" width="800" alt="Medical Analysis" />
   <p><em>Clinical & Medical Diagnostic Analysis</em></p>
   
-  <img src="./images/naam-risk.png" width="800" alt="Risk Factor Analysis" />
+  <img src="./images/naam risk factor analysis board.png" width="800" alt="Risk Factor Analysis" />
   <p><em>Risk Factor Stratification Dashboard</em></p>
   
-  <img src="./images/naam-time.png" width="800" alt="Time Analysis" />
+  <img src="./images/naam time analysis board.png" width="800" alt="Time Analysis" />
   <p><em>Longitudinal & Time Trend Analysis</em></p>
   
-  <img src="./images/naam-treatment.png" width="800" alt="Treatment Analysis" />
+  <img src="./images/naam treatment analysis board.png" width="800" alt="Treatment Analysis" />
   <p><em>Treatment Protocol & Outcome Analysis</em></p>
 </div>
 
