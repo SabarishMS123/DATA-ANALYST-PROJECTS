@@ -39,16 +39,16 @@ This project visualizes the distribution, anatomical localization, and demograph
 ### 📸 Dashboard Screenshots
 
 <div align="center">
-  <img src="./images/Grade1.png" width="800" alt="Grade 1 Brain Tumor Analysis" />
+  <img src="./images/Grade 1.png" width="800" alt="Grade 1 Brain Tumor Analysis" />
   <p><em>WHO Grade 1 Staging Analysis</em></p>
   
-  <img src="./images/Grade2.png" width="800" alt="Grade 2 Brain Tumor Analysis" />
+  <img src="./images/Grade 2.png" width="800" alt="Grade 2 Brain Tumor Analysis" />
   <p><em>WHO Grade 2 Staging Analysis</em></p>
   
-  <img src="./images/Grade3.png" width="800" alt="Grade 3 Brain Tumor Analysis" />
+  <img src="./images/Grade 3.png" width="800" alt="Grade 3 Brain Tumor Analysis" />
   <p><em>WHO Grade 3 Staging Analysis</em></p>
   
-  <img src="./images/Grade4.png" width="800" alt="Grade 4 Brain Tumor Analysis" />
+  <img src="./images/Grade 4.png" width="800" alt="Grade 4 Brain Tumor Analysis" />
   <p><em>WHO Grade 4 Staging Analysis</em></p>
 </div>
 
