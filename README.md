@@ -1,15 +1,3 @@
-I apologize for the frustration. It looks like you might have copied the entire block **including the backticks** (the ` ```markdown ` at the very top and the ` ``` ` at the bottom) directly into your `README.md` file. 
-
-When you paste those backticks into a file, GitHub thinks you are trying to display a code block, so it renders the whole thing as raw text inside a grey box instead of formatting it properly.
-
-Here is exactly what you need to do to fix it:
-
-1. Open your `README.md` file.
-2. **Delete** the ` ```markdown ` at the top and the ` ``` ` at the bottom.
-3. Make sure you have an `images` folder in your repository and that your screenshots are named exactly as listed (e.g., `brain-grade-1.png`).
-
-If you just want to copy the clean text without the code block wrapper, here is the exact raw text. **Copy everything from the `#` sign down to the very end:**
-
 # 🏥 Healthcare & Clinical Data Analytics Suite
 
 <div align="center">
